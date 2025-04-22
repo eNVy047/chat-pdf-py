@@ -7,7 +7,10 @@ openai
 faiss-cpu
 altair
 tiktoken
-huggingface-hub  # Uncomment this if you're using HuggingFace LLMs
+huggingface-hub 
+langchain-google-genai
+google-generativeai
+ # Uncomment this if you're using HuggingFace LLMs
 
 # Optional dependencies:
 # instructor-embedding  # Uncomment if you're using InstructorEmbedding
