@@ -1,0 +1,14 @@
+langchain
+langchain-community
+PyPDF2
+python-dotenv
+streamlit
+openai
+faiss-cpu
+altair
+tiktoken
+huggingface-hub  # Uncomment this if you're using HuggingFace LLMs
+
+# Optional dependencies:
+# instructor-embedding  # Uncomment if you're using InstructorEmbedding
+# sentence-transformers  # Uncomment if you're using Sentence Transformers
