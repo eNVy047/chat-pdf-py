@@ -25,16 +25,20 @@ The application follows these steps to provide responses to your questions:
 To install the MultiPDF Chat App, please follow these steps:
 
 1. Clone the repository to your local machine.
+2. ```
+   git clone https://github.com/eNVy047/chat-pdf-py.git
+   ```
 
-2. Install the required dependencies by running the following command:
+    ```
+    cd chat-pdf-py
+   ```
+
+3. Install the required dependencies by running the following command:
    ```
    pip install -r requirements.txt
    ```
 
-3. Obtain an API key from OpenAI and add it to the `.env` file in the project directory.
-```commandline
-OPENAI_API_KEY=your_secrit_api_key
-```
+4. Obtain an API key from OpenAI and add it to the `.env` file in the project directory.
 
 ## Usage
 -----
