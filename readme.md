@@ -58,6 +58,34 @@ To use the MultiPDF Chat App, follow these steps:
 
 5. Ask questions in natural language about the loaded PDFs using the chat interface.
 
+
+### 📫 Connect with me
+
+<p align="left">
+  <a href="mailto:narayan7154@gmail.com">
+    <img align="center" src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat" />
+  </a>
+  <a href="https://www.linkedin.com/in/narayanverma/" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&style=flat" />
+  </a>
+  <a href="https://www.instagram.com/narayan_.v/" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=flat" />
+  </a>
+  <a href="https://narayanverma.vercel.app" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/-Portfolio-24292E?logo=githubpages&style=flat" />
+  </a>
+</p>
+
+### ☕ Support Me
+
+If you like my work and want to support me, you can buy me a coffee!  
+[![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20me%20a%20coffee-FFDD00?logo=buy-me-a-coffee&logoColor=black&style=flat)](https://www.buymeacoffee.com/narayanverma)
+
+### 📄 License
+This project is open-source. You’re free to use, share, and modify it for personal and commercial projects.
+Let me know if you’d like me to generate a `CONTRIBUTING.md` or `vercel.json` for deployment next!
+
+
 ## Contributing
 ------------
 This repository is intended for educational purposes and does not accept further contributions. Feel free to utilize and enhance the app based on your own requirements.
